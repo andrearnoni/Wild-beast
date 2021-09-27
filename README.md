@@ -2,8 +2,6 @@
   <img src="./images/wildbeast-logo.png" width="400px">
 </p>
 
-<br>
-
 <h1 align="center">Wildbeast</h1>
 
 Simple page to apply CSS grid layout and responsive design conceptions.
