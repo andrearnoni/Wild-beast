@@ -49,7 +49,7 @@ Start the server
 
 - OBS: Usually I use the Live Server extension for Vs Code, but you can run the way you prefer
 
-## Authors
+## Author
 
 This project was coded and designed by [@andrearnoni](https://github.com/andrearnoni).
 
